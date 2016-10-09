@@ -1,0 +1,12 @@
+{
+	"discord": {
+		"token": "usertokenhere-seelocalstorageinclient",
+	},
+
+	"mpd": {
+		"address": "127.0.0.1",
+		"port": 6600
+	},
+
+	"update_timeout": 5
+}
