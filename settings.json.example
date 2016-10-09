@@ -8,5 +8,6 @@
 		"port": 6600
 	},
 
-	"update_timeout": 5
+	"update_timeout": 5,
+	"format": "%artist% - %title%"
 }
